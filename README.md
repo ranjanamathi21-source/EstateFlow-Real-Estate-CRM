@@ -54,19 +54,21 @@ On Windows PowerShell, if `npm` is blocked by execution policy, use `npm.cmd ins
 - Include screenshots of Login, Dashboard, Leads, Properties and Bookings.
 - Add the deployed URL if you deploy it.
 - Do not commit `src/crm.db` if you want a clean repository; the app creates and seeds it automatically on first run.
+
+
 ## Screenshots
 
 ### Login
-![Login](c:\Users\WIN\Pictures\Screenshots\Screenshot (153).pngS)
+![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](c:\Users\WIN\Pictures\Screenshots\Screenshot (160).png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Leads
-![Leads](c:\Users\WIN\Pictures\Screenshots\Screenshot (158).png)
+![Leads](screenshots/leads.png)
 
 ### Properties
-![Properties](c:\Users\WIN\Pictures\Screenshots\Screenshot (156).png)
+![Properties](screenshots/properties.png)
 
 ### Bookings
-![Bookings](c:\Users\WIN\Pictures\Screenshots\Screenshot (159).png)
+![Bookings](screenshots/bookings.png)
