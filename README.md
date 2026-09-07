@@ -57,16 +57,16 @@ On Windows PowerShell, if `npm` is blocked by execution policy, use `npm.cmd ins
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+![Login](c:\Users\WIN\Pictures\Screenshots\Screenshot (153).pngS)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](c:\Users\WIN\Pictures\Screenshots\Screenshot (160).png)
 
 ### Leads
-![Leads](screenshots/leads.png)
+![Leads](c:\Users\WIN\Pictures\Screenshots\Screenshot (158).png)
 
 ### Properties
-![Properties](screenshots/properties.png)
+![Properties](c:\Users\WIN\Pictures\Screenshots\Screenshot (156).png)
 
 ### Bookings
-![Bookings](screenshots/bookings.png)
+![Bookings](c:\Users\WIN\Pictures\Screenshots\Screenshot (159).png)
